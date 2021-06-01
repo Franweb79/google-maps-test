@@ -1,5 +1,4 @@
-# this manually coded JS map is free to use. You must change the default data with your own, and also, very important
-# A GOOGLE MAPS API KEY with a billing account, you must include it at the last script of the code
+# this manually coded JS map is free to use. You must change the default data with your own, and also, very important, a GOOGLE MAPS API KEY with a billing account, you must include it at the last script of the code
 
 # more info about the google maps API key https://developers.google.com/maps/documentation/javascript/get-api-key?hl=es-419
 # more about google javascript API https://developers.google.com/maps/documentation/javascript/overview
